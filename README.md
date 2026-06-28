@@ -1,2 +1,2 @@
 # FPGA-8Bit-ALU-Verilog-Vivado
-Design and FPGA Implementation of an 8-Bit Parameterized Arithmetic Logic Unit using Verilog HDL and Xilinx Vivado.
+Parameterized 8-bit ALU in Verilog HDL designed using Xilinx Vivado with simulation, RTL analysis, synthesis and implementation.
