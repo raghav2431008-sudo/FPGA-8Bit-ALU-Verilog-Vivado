@@ -2,6 +2,10 @@
 
 An 8-bit modular **Arithmetic Logic Unit (ALU)** designed in **Verilog HDL** using **Xilinx Vivado 2025.2**. The project follows a modular architecture and has been successfully verified through simulation, synthesis, and implementation.
 
+![RTL](docs/RTL_Schematic.png)
+<img width="1920" height="1020" alt="RTL_Schematic" src="https://github.com/user-attachments/assets/49d87e6f-ab20-4ebe-aa3a-379b4d660e0c" />
+
+
 ## Features
 
 * 8-bit Parameterized ALU
