@@ -1,7 +1,6 @@
 # FPGA 8-Bit ALU using Verilog HDL
 
 An 8-bit modular **Arithmetic Logic Unit (ALU)** designed in **Verilog HDL** using **Xilinx Vivado 2025.2**. The project follows a modular architecture and has been successfully verified through simulation, synthesis, and implementation.
-
 ![RTL](docs/RTL_Schematic.png)
 <img width="1920" height="1020" alt="RTL_Schematic" src="https://github.com/user-attachments/assets/49d87e6f-ab20-4ebe-aa3a-379b4d660e0c" />
 
@@ -26,6 +25,8 @@ An 8-bit modular **Arithmetic Logic Unit (ALU)** designed in **Verilog HDL** usi
 * Increment & Decrement
 
 ## Project Structure
+<img width="382" height="796" alt="image" src="https://github.com/user-attachments/assets/5dc83bcf-6b09-4157-8150-b8897865c135" />
+
 
 ```text
 src/   → Verilog source files
